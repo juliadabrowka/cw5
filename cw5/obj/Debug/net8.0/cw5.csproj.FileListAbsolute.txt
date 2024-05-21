@@ -1,0 +1,4 @@
+C:\Users\julia\Desktop\APBD\cw_5\cw5\obj\Debug\net8.0\cw5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\APBD\cw_5\cw5\obj\Debug\net8.0\cw5.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\APBD\cw_5\cw5\obj\Debug\net8.0\cw5.AssemblyInfo.cs
+C:\Users\julia\Desktop\APBD\cw_5\cw5\obj\Debug\net8.0\cw5.csproj.CoreCompileInputs.cache
