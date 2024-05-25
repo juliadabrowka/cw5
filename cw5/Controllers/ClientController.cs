@@ -6,11 +6,11 @@ namespace cw5.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class ClientsController : ControllerBase
+public class ClientController : ControllerBase
 {
     private readonly Context.Context _context;
 
-    public ClientsController(Context.Context context)
+    public ClientController(Context.Context context)
     {
         _context = context;
     }
